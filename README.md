@@ -14,7 +14,7 @@ Implementation of KNN algorithm in Python 3
 The primary goal is predict wheather customer will purchase Iphone or not from their store based on gender, age and salary.
 
 # liabrary
-pandas, numpy, matplotlib,seaborn,sklearn,joblib used in project
+pandas, numpy, matplotlib,seaborn,sklearn used in project
 # Methodology
 1. Machine learning life cycle:
 2. followed indistry standard practice of machine learning life cycle steps.
@@ -25,8 +25,7 @@ pandas, numpy, matplotlib,seaborn,sklearn,joblib used in project
 visualised data using visualisation library like matplotlib, seaborn.
 # Algorithm:
 scikit library use for KNN algorithm.
-# model validation:
-model validate with accuracy score of diff K, confusion metrix.
+
 # EDA:
 1. Total female are 51% and male are 49%.
 2. Female average salary is more than male average salary.

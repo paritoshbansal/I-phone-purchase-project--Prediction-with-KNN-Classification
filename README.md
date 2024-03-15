@@ -5,7 +5,7 @@ Implementation of KNN algorithm in Python 3
 # Description
 1. K-Nearest-Neighbors algorithm is used for classification and regression problems.
 2. In this project, it is used for classification.
-3. puchased Iphone dataset used for project.
+3. iphone_purchase_records dataset used for project.
 # Data set format
 1. CSV (Comma Separated Values) format.
 2. Attributes can be integer or real values.
